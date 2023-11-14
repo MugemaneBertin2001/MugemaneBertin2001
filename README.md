@@ -5,7 +5,7 @@ I am a dedicated and highly skilled Full-Stack Engineer with 5 of experience in 
 Here are some of the key skills I bring to the table:
 - Languages:  JavaScript, Java, PHP, python, c/c++ 
 - Front-End Technologies: React, Angular, Vue.js
-- Back-End Technologies: Node.js, Express.js, Ruby on Rails
+- Back-End Technologies: Node.js, Express.js, spring boot, django, laravel
 - Databases: PostgreSQL, MySQL, MongoDB
 - Version Control: Git
 - DevOps and Deployment: Docker, AWS, Heroku
