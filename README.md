@@ -3,7 +3,8 @@
 I am a dedicated and highly skilled Full-Stack Engineer with 5 of experience in designing, developing, and deploying robust web applications. I am proficient in both front-end and back-end technologies and have a strong track record of contributing to innovative projects.
 
 Here are some of the key skills I bring to the table:
-- Front-End Technologies: HTML, CSS, JavaScript, React, Angular, Vue.js
+- Languages:  JavaScript, Java, PHP, python, c/c++ 
+- Front-End Technologies: React, Angular, Vue.js
 - Back-End Technologies: Node.js, Express.js, Ruby on Rails
 - Databases: PostgreSQL, MySQL, MongoDB
 - Version Control: Git
