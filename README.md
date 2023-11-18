@@ -19,11 +19,7 @@ I have worked on various projects throughout my career. Here are a few notable o
 - [language translating chat](https://github.com/MugemaneBertin2001/translation-saas): Chat with anyone from any where, language barrier resolved.
 - [Chirpapp](https://github.com/MugemaneBertin2001/chirpApp): tweeter clone that enables user to sign up and sign in and chirp instead of tweet!!
 
-## Certifications
-
-I have earned the following certifications:
-- [Certification Name 1](link-to-certification)
-- [Certification Name 2](link-to-certification2)
+<a href="https://app.daily.dev/mugemanebertin"><img src="https://api.daily.dev/devcards/b73a9dd4f4fc47c1ae2f25e0557e12aa.png?r=dx5" width="400" alt="Mugemane Bertin's Dev Card"/></a>
 
 ## Contact
 
