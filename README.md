@@ -1,11 +1,11 @@
 # Mugemane Bertin
 
-I am a dedicated and highly skilled Full-Stack Engineer with 5 of experience in designing, developing, and deploying robust web applications. I am proficient in both front-end and back-end technologies and have a strong track record of contributing to innovative projects.
+I am a dedicated and highly skilled Full-Stack Engineer with experience in designing, developing, and deploying robust web applications. I am proficient in both front-end and back-end technologies and have a strong track record of contributing to innovative projects.
 
 Here are some of the key skills I bring to the table:
-- Languages:  JavaScript, Java, PHP, python, c/c++ 
+- Languages:  JavaScript, Java, PHP, Python, c/c++ 
 - Front-End Technologies: React, Angular, Vue.js
-- Back-End Technologies: Node.js, Express.js, spring boot, django, laravel
+- Back-End Technologies: Node.js, Express.js, spring boot, Django, laravel
 - Databases: PostgreSQL, MySQL, MongoDB
 - Version Control: Git
 - DevOps and Deployment: Docker, AWS, Heroku
@@ -17,7 +17,7 @@ Here are some of the key skills I bring to the table:
 
 I have worked on various projects throughout my career. Here are a few notable ones:
 - [language translating chat](https://github.com/MugemaneBertin2001/translation-saas): Chat with anyone from any where, language barrier resolved.
-- [Chirpapp](https://github.com/MugemaneBertin2001/chirpApp): tweeter clone that enables user to sign up and sign in and chirp instead of tweet!!
+- [Chirpapp](https://github.com/MugemaneBertin2001/chirpApp): Twitter clone that enables users to sign up and sign in and chirp instead of tweet!!
 
 <a href="https://app.daily.dev/mugemanebertin"><img src="https://api.daily.dev/devcards/b73a9dd4f4fc47c1ae2f25e0557e12aa.png?r=dx5" width="400" alt="Mugemane Bertin's Dev Card"/></a>
 
