@@ -16,7 +16,7 @@ Here are some of the key skills I bring to the table:
 ## Projects
 
 I have worked on various projects throughout my career. Here are a few notable ones:
-- [language translating chat](https://github.com/MugemaneBertin2001/translation-saas): Chat with anyone from any where, language barrier resolved.
+- [language translating chat](https://github.com/MugemaneBertin2001/translation-saas-v1): Chat with anyone from any where, language barrier resolved.
 - [Chirpapp](https://github.com/MugemaneBertin2001/chirpApp): Twitter clone that enables users to sign up and sign in and chirp instead of tweet!!
 
 <a href="https://app.daily.dev/mugemanebertin"><img src="https://api.daily.dev/devcards/b73a9dd4f4fc47c1ae2f25e0557e12aa.png?r=dx5" width="400" alt="Mugemane Bertin's Dev Card"/></a>
