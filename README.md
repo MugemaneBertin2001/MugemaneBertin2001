@@ -1,8 +1,8 @@
 # Mugemane Bertin
 
-**Full-Stack Engineer** | Innovator | Problem Solver
+**Full-Stack Software Engineer** |**Technologist**| Innovator | Problem Solver
 
-With extensive experience in designing, developing, and deploying scalable web applications, I bring a comprehensive skill set that spans both front-end and back-end technologies. My passion for crafting elegant solutions drives my commitment to contributing to transformative projects.
+With extensive experience designing, developing, and deploying scalable web applications, I bring a comprehensive skill set that spans both front-end and back-end technologies. My passion for crafting elegant solutions drives my commitment to contributing to transformative projects.
 
 ## 🚀 Key Skills
 
