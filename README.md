@@ -1,30 +1,33 @@
 # Mugemane Bertin
 
-I am a dedicated and highly skilled Full-Stack Engineer with experience in designing, developing, and deploying robust web applications. I am proficient in both front-end and back-end technologies and have a strong track record of contributing to innovative projects.
+**Full-Stack Engineer** | Innovator | Problem Solver
 
-Here are some of the key skills I bring to the table:
-- Languages:  JavaScript, Java, PHP, Python, c/c++ 
-- Front-End Technologies: React, Angular, Vue.js
-- Back-End Technologies: Node.js, Express.js, spring boot, Django, laravel
-- Databases: PostgreSQL, MySQL, MongoDB
-- Version Control: Git
-- DevOps and Deployment: Docker, AWS, Heroku
-- Testing and Debugging: Jest, Mocha, Chai, Postman
-- Authentication and Authorization: OAuth, JWT
-- Agile/Scrum Methodologies
+With extensive experience in designing, developing, and deploying scalable web applications, I bring a comprehensive skill set that spans both front-end and back-end technologies. My passion for crafting elegant solutions drives my commitment to contributing to transformative projects.
 
-## Projects
+## 🚀 Key Skills
 
-I have worked on various projects throughout my career. Here are a few notable ones:
-- [language translating chat](https://github.com/MugemaneBertin2001/translation-saas-v1): Chat with anyone from any where, language barrier resolved.
-- [Chirpapp](https://github.com/MugemaneBertin2001/chirpApp): Twitter clone that enables users to sign up and sign in and chirp instead of tweet!!
+- **Languages:** JavaScript, Java, PHP, Python, C/C++
+- **Front-End Technologies:** React, Angular, Vue.js
+- **Back-End Technologies:** Node.js, Express.js, Spring Boot, Django, Laravel
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Version Control:** Git
+- **DevOps & Deployment:** Docker, AWS, Heroku
+- **Testing & Debugging:** Jest, Mocha, Chai, Postman
+- **Authentication & Authorization:** OAuth, JWT
+- **Methodologies:** Agile/Scrum
 
-<a href="https://app.daily.dev/mugemanebertin"><img src="https://api.daily.dev/devcards/b73a9dd4f4fc47c1ae2f25e0557e12aa.png?r=dx5" width="400" alt="Mugemane Bertin's Dev Card"/></a>
+## 📈 My Dev Card
 
-## Contact
+<a href="https://app.daily.dev/mugemanebertin">
+  <img src="https://api.daily.dev/devcards/b73a9dd4f4fc47c1ae2f25e0557e12aa.png?r=dx5" width="400" alt="Mugemane Bertin's Dev Card"/>
+</a>
 
-You can reach out to me via [Email](bertin.m2001@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/mugemane-bertin-15a383237).
+## 📫 Contact Me
 
-Feel free to explore my resume and get in touch if you have any questions or opportunities you'd like to discuss!
+- **Email:** [bertin.m2001@gmail.com](mailto:bertin.m2001@gmail.com)
+- **LinkedIn:** [Mugemane Bertin](https://www.linkedin.com/in/mugemane-bertin-15a383237)
+- **Telephone**:[+250781120876](+250781120876)
+
+I welcome any questions, collaborations, or opportunities you’d like to discuss. Feel free to connect with me!
 
 ✨ Thank you for visiting my Full-Stack Engineer Resume Repository! ✨
