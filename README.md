@@ -8,7 +8,7 @@ With extensive experience designing, developing, and deploying scalable web appl
 
 - **Languages:** JavaScript, Java, PHP, Python, C/C++
 - **Front-End Technologies:** React, Angular, Vue.js
-- **Back-End Technologies:** Node.js, Express.js, Spring Boot, Django, NestJs, Dotnet
+- **Back-End Technologies:** Node.js, Express.js, Spring Boot, Django, NestJs, .net
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Version Control:** Git
 - **DevOps & Deployment:** Docker, AWS, Heroku, Digital Ocean, Azure
