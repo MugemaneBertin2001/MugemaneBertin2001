@@ -1,14 +1,21 @@
-# **Mugemane Bertin**  
-🚀 **Full-Stack Software Engineer** | **Technologist** | **Innovator** | **Problem Solver**  
+You're right! Here's an updated version with mobile development included.  
 
-With a deep passion for technology and innovation, I specialize in designing, developing, and deploying scalable, high-performance web applications. My expertise spans both front-end and back-end technologies, allowing me to build seamless, end-to-end solutions that drive business success. I thrive on solving complex problems, optimizing performance, and contributing to transformative projects.  
+---
+
+# **Mugemane Bertin**  
+🚀 **Full-Stack Software Engineer** | **Mobile Developer** | **Technologist** | **Innovator**  
+
+I specialize in building **scalable**, **high-performance** web and mobile applications, with expertise across **frontend, backend, DevOps, and cloud technologies**. My passion lies in crafting **robust solutions**, optimizing performance, and leading projects that make an impact.  
 
 ---
 
 ## 🔥 **Core Skills & Technologies**  
 
 ### **💻 Programming Languages**  
-JavaScript | TypeScript | Java | Python | PHP | C/C++ | C#  
+JavaScript | TypeScript | Dart | Java | Python | PHP | C/C++ | C#  
+
+### **📱 Mobile App Development**  
+Flutter | React Native | Android (Java/Kotlin) | iOS (Swift) | Firebase  
 
 ### **🎨 Front-End Development**  
 React.js | Next.js | Angular | Vue.js | Tailwind CSS | Bootstrap  
@@ -38,10 +45,11 @@ Agile | Scrum | CI/CD | TDD
 
 ## 💡 **Why Work With Me?**  
 
-✔️ **Problem-Solver:** I approach challenges with a creative and analytical mindset.  
-✔️ **Scalability & Performance:** I optimize applications for efficiency, security, and speed.  
+✔️ **Full-Stack & Mobile Expertise:** I develop applications across web, mobile, and backend.  
+✔️ **Scalability & Performance:** I build efficient, optimized, and secure systems.  
+✔️ **Problem-Solving Mindset:** I approach challenges with innovation and creativity.  
 ✔️ **Collaboration & Leadership:** I thrive in dynamic teams and value knowledge-sharing.  
-✔️ **Continuous Learning:** I stay ahead of the curve by constantly exploring new technologies.  
+✔️ **Continuous Learning:** I keep up with the latest industry trends and technologies.  
 
 ---
 
@@ -57,4 +65,4 @@ Agile | Scrum | CI/CD | TDD
 🔗 **LinkedIn:** [Mugemane Bertin](https://www.linkedin.com/in/mugemane-bertin-15a383237)  
 📞 **Phone:** [+250781120876](tel:+250781120876)  
 
-Whether you're looking for collaboration, consultation, or just a tech discussion, feel free to reach out. Let's build something amazing together! 🚀✨
+I'm open to **collaborations, contract work, and full-time opportunities**. Let's build something great together! 🚀✨
