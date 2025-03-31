@@ -1,7 +1,3 @@
-You're right! Here's an updated version with mobile development included.  
-
----
-
 # **Mugemane Bertin**  
 🚀 **Full-Stack Software Engineer** | **Mobile Developer** | **Technologist** | **Innovator**  
 
